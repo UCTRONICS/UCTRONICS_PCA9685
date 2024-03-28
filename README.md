@@ -1,2 +1,6 @@
-# UCTRONICS_PCA9685
-This library is used for Arducam Pan Tilt Camera for Raspberry Pi
+## How to compile the demo 
+ ```bash
+ cd UCTRONICS_PCA9685
+ sudo make clean && sudo make 
+ sudo ./run_servo
+```
